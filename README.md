@@ -1,0 +1,2 @@
+- Implementasi dari materi REGEX
+- Mengecek nomor handphone dengan format yang ditentukan dan operator yang dipakai
